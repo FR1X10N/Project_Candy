@@ -2,6 +2,8 @@
 
 Site vitrine pour une boutique de gâteaux de bonbons — présentant les créations, les services et un formulaire de contact.
 
+(En Cours ...)
+
 ---
 
 ## Stack
